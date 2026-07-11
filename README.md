@@ -1,29 +1,78 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=vicky-510&label=Profile%20views&color=0e75b6&style=flat" alt="vicky-510" /> </p>
+<div align="center">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Vigneshwaran+M!;&center=true&size=30">
-  </a>
-</h1>
-<kbd><img src="https://github.com/vicky-510/vicky-510/assets/103897625/0ebcfb1e-1cc0-4a47-a51c-7efe237ef814" alt="vicky-510" /></kbd>
+# 👋 Hi, I'm Vigneshwaran M
+
+### Software Engineer | Full Stack Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Angular+Developer;Full+Stack+Developer;Node.js+%7C+TypeScript+%7C+GCP;Building+Scalable+Applications" />
 
 <br>
-<br>
-Welcome to my GitHub profile! Here’s a bit about me:
 
-- 🔥 Jr. Software Engineer at MBF digital production services private limited.
-  
-- 🔭 Ex- Trainee Programmer at webstix design pvt ltd, Ex- Intern at NilaApps pvt ltd.
-    
-- 🤝 I completed my Full Stack Development (MERN) course at Elysium Academy
-  
-- 👯 I’m looking to collaborate on MERN/MEAN Stack Projects
-  
-- 👨‍💻 All of my projects are available at https://vwaran.com
-  
-- 💬 Ask me about React, Angular, MongoDB, Node.js, Express.js
-  
-- 📫 How to reach me: vignesh510510@gmail.com
+![](https://komarev.com/ghpvc/?username=vicky-510&label=Profile+Views&color=0e75b6&style=for-the-badge)
+![](https://img.shields.io/github/followers/vicky-510?style=for-the-badge)
+![](https://img.shields.io/github/stars/vicky-510?style=for-the-badge)
+![](https://img.shields.io/github/last-commit/vicky-510/vicky-510?style=for-the-badge)
+
+</div>
+
+---
+
+# 💫 About Me
+
+```ts
+const Vigneshwaran = {
+    role: "Software Engineer",
+    experience: "2+ Years",
+    location: "India",
+
+    frontend: [
+        "Angular",
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Angular Material"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "REST API",
+        "Bull Queue",
+        "Cron Jobs",
+        "Sequelize"
+    ],
+
+    database: [
+        "MySQL",
+        "MongoDB",
+        "Elasticsearch"
+    ],
+
+    cloud: [
+        "Google Cloud Platform",
+        "Cloud Run",
+        "Cloud Storage",
+        "Compute Engine",
+        "CI/CD"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "Linux",
+        "VS Code",
+        "Postman"
+    ],
+
+    currentlyLearning: [
+        "System Design",
+        "Cloud Architecture",
+        "Microservices"
+    ]
+}
+```
 
 <br>
 
@@ -51,25 +100,6 @@ Welcome to my GitHub profile! Here’s a bit about me:
 </div>
 
 <br>
-<br>
-
-<h2 align="center">🔝 Top Contributed Repo</h2>
-<br>
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=vicky-510&limit=5&theme=chalk&combine_all_yearly_contributions=true) 
-
-</div>
-<br>
-<br>
-
-<h2 align="center">🌟 Trophies 🌟</h2>
-<br>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicky-510" alt="vicky-510" /></a> </p>
-<br>
-<br>
-
 
 <h2 align="center">❄️  Connect With Me ❄️ </h2>
 <br>
@@ -86,5 +116,15 @@ Welcome to my GitHub profile! Here’s a bit about me:
   
 </p>
 <br>
+
+<div align="center">
+
+## 💡 Quote
+
+> **"Code. Build. Solve. Impact."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=120&section=footer"/>
+
+</div>
 
 ---
