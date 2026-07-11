@@ -19,7 +19,7 @@ Welcome to my GitHub profile! Here’s a bit about me:
   
 - 👯 I’m looking to collaborate on MERN/MEAN Stack Projects
   
-- 👨‍💻 All of my projects are available at https://vwaran.tech
+- 👨‍💻 All of my projects are available at https://vwaran.com
   
 - 💬 Ask me about React, Angular, MongoDB, Node.js, Express.js
   
