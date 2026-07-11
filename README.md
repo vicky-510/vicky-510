@@ -84,7 +84,7 @@ const Vigneshwaran = {
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,mongodb,html,css,sass,javascript,jquery,java,php" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,git,github,mysql,redux,linux,vscode,netlify,render" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,git,github,mysql,redux,linux,vscode,netlify,render, gcp" />
 
   </a>
 <br>
